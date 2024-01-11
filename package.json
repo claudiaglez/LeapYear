@@ -1,0 +1,20 @@
+{
+  "name": "leapyeartesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LeapYear.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "leapyeartesting"
+  },
+  "author": "Claudia",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "jest": "^29.7.0",
+    "npm": "^10.2.5"
+  }
+}
